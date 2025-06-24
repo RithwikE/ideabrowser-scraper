@@ -1,0 +1,4 @@
+Log in once: python save_state.py
+– browser pops up → sign in → return to terminal and press ENTER
+
+Scrape: python scrape_ideas.py
